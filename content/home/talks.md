@@ -3,8 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+active: false
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 70
@@ -13,8 +14,8 @@ title: 'Recent & Upcoming Talks'
 subtitle:
 
 content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event
+  # Page type to display. E.g. post, talk, publication...
+  page_type: talk
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria

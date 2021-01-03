@@ -1,49 +1,43 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include International Finance, Econometrics and Machine Learning.  
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in International Finance
+    institution: University Paris Nanterre
+    year: 2020
+  - course: MSc in Applied Economics
+    institution: University Paris Nanterre
+    year: 2017
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- International Finance
+- Econometrics
+- Machine Learning
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University Paris Nanterre - EconomiX
+  url: https://economix.fr/
+role: Research and Teaching Assistant
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Joe_Yapi
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ynaj
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://fr.linkedin.com/in/joseph-yapi-73a3266b
+- icon: ideas
+  icon_pack: fab
+  link: https://econpapers.repec.org/RAS/pya537.htm
 superuser: true
-title: Nelson Bighetti
+title: Joseph Yapi
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I hold a PhD in International Economics from the University of Nanterre. My research interests include International Finance, Econometrics and Machine Learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="envelope" pack="fas" >}} Send me email at angejosephyapi@gmail.com 
