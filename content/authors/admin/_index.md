@@ -32,7 +32,7 @@ social:
   icon_pack: fab
   link: https://econpapers.repec.org/RAS/pya537.htm
 superuser: true
-title: Joseph Yapi
+title: 
 ---
 
 I hold a PhD in International Economics from the University of Nanterre. My research interests include International Finance, Econometrics and Machine Learning.
