@@ -11,7 +11,7 @@ education:
 email: ""
 highlight_name: false
 interests:
-- International Finance
+- International Economics
 - Econometrics
 - Machine Learning
 organizations:
@@ -38,6 +38,6 @@ title:
 I hold a PhD in International Economics from the University of Nanterre. My research interests include International Finance, Econometrics and Machine Learning.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "media/demo_resume.pdf" "newtab" >}}CV Joseph YAPI{{< /staticref >}}.
 
 {{< icon name="envelope" pack="fas" >}} Send me email at angejosephyapi@gmail.com 
