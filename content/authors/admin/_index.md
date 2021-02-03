@@ -2,7 +2,7 @@
 bio: My research interests include International Finance, Econometrics and Machine Learning.  
 education:
   courses:
-  - course: PhD in International Finance
+  - course: PhD in International Economics
     institution: University Paris Nanterre
     year: 2020
   - course: MSc in Applied Economics
@@ -12,8 +12,8 @@ email: ""
 highlight_name: false
 interests:
 - International Economics
-- Econometrics
-- Machine Learning
+- Econometrics/Machine Learning
+- Financial Markets
 organizations:
 - name: University Paris Nanterre - EconomiX
   url: https://economix.fr/
@@ -35,7 +35,7 @@ superuser: true
 title: 
 ---
 
-I hold a PhD in International Economics from the University of Nanterre. My research interests include International Finance, Econometrics and Machine Learning.
+I hold a PhD in International Economics from the University Paris Nanterre. My research interests include International Finance, Applied Econometrics and Machine Learning.
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/demo_resume.pdf" "newtab" >}}CV Joseph YAPI{{< /staticref >}}.
